@@ -1,4 +1,4 @@
-Pakistan Ecommerce Sales Dashbord
+Ecommerce Sales Dashbord
 
 This project analyzes ecommerce sales data using Power BI.
 
